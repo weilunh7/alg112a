@@ -24,3 +24,4 @@ result = min_edit_distance_recursive(word1, word2, len(word1), len(word2))
 print(f"最小編輯距離: {result}")
 
 #有使用ChatGPT
+#相關資料:https://www.gushiciku.cn/pl/gfpq/zh-tw
